@@ -9,7 +9,7 @@ First of all create a file called `.env.local` then copy all the environment var
 Fill the environment variables in that file as follows:
 
 You must create an OpenAI API account to get the OpenAI API key.
-
+ 
 You must create a database with your account on MongoDB atlas then:-
 
 - Paste the database connection string in the `MONGODB_URI` environment variable.
